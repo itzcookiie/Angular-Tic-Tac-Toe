@@ -6,11 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Challenging
 
 `Total time spent: around 4hrs`
-
-## Challenging
 
 Initially, I tried to create the required views, but decided to stop and plan. I realised it would be best to start from the AWS API and get that going. I saw the AWS API as the core functionality, with the plan that once I got that done, all I needed to do was fill in the rest e.g. creating the UI to display the relevant data.
 
