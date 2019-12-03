@@ -24,6 +24,3 @@ I attempted to use the AWS JavaScript SDK, as it looked the most relevant and ef
 
 If I had more time, I would spend more time trying to get the AWS API to work. Once I get that up and running, I would be able to just add in the extra bits e.g. other views.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-
